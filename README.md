@@ -24,3 +24,15 @@ Com as máquina já criada, vá em Configurações > Armazenamento > Acrescentar
 Agora, basta iniciar a máquina virtual, selecionar a opção "Install Oracle Linux   9.0.0"
 
 ![image](https://user-images.githubusercontent.com/62852333/189706781-fe77ba65-c6b8-4ba0-b55e-5e52aad2fea9.png)
+
+Nesta etapa, você poderá fazer as seguintes configurações:
+
+* Keyboard: alterar o tipo de teclado para Português Brasil
+* Time & Date: ajustar a data e horário da máquina
+* Software Selection: deve-se selecionar a opção Minimal Install
+* Installation Destination: deve-se selecionar o disco onde será instalado a máquina, e há possibilidade de customizar as partições, assim como particionar automaticamente
+* Root Password: criar uma senha para o usuário root
+
+Após essas configurações, selecione "Begin Instalation" e após o carregamento, "Reboot System".
+Depois de todos esses passos, sua máquina virtual estará pronta para o uso, com o sistema operacional Oracle Linux 9.0
+
